@@ -1,1 +1,1 @@
-# .github
+# This is default README.md from Organization's `.github` repository
